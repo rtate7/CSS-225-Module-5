@@ -1,7 +1,7 @@
 # Bob Tate
 # 1/27/21
 #
-# Solution to Problem 2
+# Solution to Problem 4
 # This program iterates through the integers from 1 to 50. For multiples
 # of three, it prints "Divisible by three" instead of the number and for
 # the multiples of five, it prints "Divisible by five" instead of the

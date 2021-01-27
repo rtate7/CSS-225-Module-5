@@ -2,7 +2,7 @@
 # 1/27/21
 #
 # Solution to Problem 5
-# This program uses the turtle library to draw a rubik's cube.
+# This program uses Python's turtle library to draw a rubik's cube.
 
 def draw_diamond(size):
     rubik.forward(size)

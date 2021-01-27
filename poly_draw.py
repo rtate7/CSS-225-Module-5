@@ -1,10 +1,10 @@
 # Bob Tate
 # 1/27/21
 #
-# Solution to Problem 2
-# This program iterates through a list of numbers twice.
-# The first time through it prints all of the numbers.
-# The second time through it prints each number and its square.
+# Solution to Problem 3
+# This program uses the turtle library to draw a polygon on the
+# screen based on the user's specifications for number of sides
+# and side lenght.
 
 import turtle  
 
